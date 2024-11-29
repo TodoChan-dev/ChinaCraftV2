@@ -1,0 +1,4 @@
+name: ChinaCraftV2
+version: '1.0.0'
+main: jp.tproject.chinaCraftV2.ChinaCraftV2
+api-version: '1.21'
